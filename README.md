@@ -1,2 +1,3 @@
 # MyBMW
-Get my BMW status using BMW connect API
+Monitoring my BMW status & Controlling remote services using BMW connect API
+- React-Native
